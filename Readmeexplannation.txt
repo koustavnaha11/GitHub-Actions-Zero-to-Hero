@@ -1,5 +1,3 @@
-Perfect 👍 You pasted a **GitHub Actions workflow YAML**. Let me break it down **line by line** so you know exactly what each part does:
-
 ---
 
 ```yaml
